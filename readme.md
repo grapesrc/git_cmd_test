@@ -1,2 +1,2 @@
-#gitコマンド初心者がgitコマンドを使ってリポジトリを作成するやつ
+# gitコマンド初心者がgitコマンドを使ってリポジトリを作成するやつ
 testhogehogepiyopiyofoobar
